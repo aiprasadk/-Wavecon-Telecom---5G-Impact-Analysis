@@ -43,6 +43,9 @@ We aimed to answer strategic questions using data-driven insights and intuitive 
 | Total Active Users (TAU)  | 161.7M        |
 | Unsubscribed Users        | 12.6M         |
 
+![Main_KPI](https://github.com/user-attachments/assets/0d50183e-d7d9-4488-938c-041c6c353c3b)
+
+
 ---
 
 ## 🌍 City-Level Insights
@@ -50,6 +53,7 @@ We aimed to answer strategic questions using data-driven insights and intuitive 
 - 📈 Revenue Growth: Lucknow, Patna, Raipur  
 - 📉 Revenue Decline: Delhi, Chennai, Ahmedabad  
 - Mumbai and Kolkata remained strong markets.
+![Market_Share](https://github.com/user-attachments/assets/7dc30277-49b4-4f83-84ac-88583ab77bf2)
 
 ---
 
@@ -61,6 +65,7 @@ We aimed to answer strategic questions using data-driven insights and intuitive 
   - Plan-wise Comparison
   - KPI Cards
   - Market Share & Plan Discontinuation
+![Plans](https://github.com/user-attachments/assets/227bab26-9b84-4bed-b0e9-b8f347e3ace3)
 
 ---
 
