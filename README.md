@@ -87,7 +87,7 @@ We aimed to answer strategic questions using data-driven insights and intuitive 
 ![image](https://github.com/user-attachments/assets/5fabb709-6b53-4bf4-92d9-fdf1a8b0dc1c)
 ![image](https://github.com/user-attachments/assets/639d9aae-a5cb-4282-90b3-2df1d27fd4c6)
 
-## 🙏 Thank You! 🙏  - 🔗 [LinkedIn](https://www.linkedin.com/in/prasad7k)  📂 [GitHub](https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis/tree/main) 
+## 🙏 Thank You! 🙏  - 🔗 [LinkedIn](https://www.linkedin.com/in/prasad7k)  📂 [GitHub](https://github.com/aiprasadk/-Wavecon-Telecom---5G-Impact-Analysis) 
 
 Feel free to reach out with any questions or feedback.
 
